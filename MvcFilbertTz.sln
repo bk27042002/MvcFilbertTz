@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcFilbertTz", "MvcFilbertTz\MvcFilbertTz.csproj", "{9F2C8DD8-FA7E-4E5F-884F-92E79A88465F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F2C8DD8-FA7E-4E5F-884F-92E79A88465F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F2C8DD8-FA7E-4E5F-884F-92E79A88465F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F2C8DD8-FA7E-4E5F-884F-92E79A88465F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F2C8DD8-FA7E-4E5F-884F-92E79A88465F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52751252-4982-40A2-A877-8434ACE6480D}
+	EndGlobalSection
+EndGlobal
